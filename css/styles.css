@@ -104,7 +104,7 @@ padding: 5rem 7rem 10rem;
 }
 
 @media (max-width: 1024px) {
-  .news-menu     {
+  .news-menu {
     display: none;
   }
   .custom-select {
@@ -114,4 +114,15 @@ padding: 5rem 7rem 10rem;
 
 label {
   margin-right: 0.8rem;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.searching {
+  width: 30rem;
+}
+i {
+  margin-left: 1rem;
 }
