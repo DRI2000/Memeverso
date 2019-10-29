@@ -103,7 +103,7 @@ padding: 5rem 7rem 10rem;
   display: none;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 1024px) {
   .news-menu     {
     display: none;
   }
