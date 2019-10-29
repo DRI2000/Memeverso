@@ -101,6 +101,7 @@ padding: 5rem 7rem 10rem;
 .custom-select {
   width: 50%;
   display: none;
+  max-width: 200px;
 }
 
 @media (max-width: 1024px) {
