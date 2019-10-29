@@ -74,3 +74,9 @@ hr {
   min-height: 650px;
   max-height: 650px;
 }
+
+.showcase-image-button {
+  margin-top: 0.5rem;
+  width: 7rem;
+
+}
