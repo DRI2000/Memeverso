@@ -101,7 +101,6 @@ padding: 5rem 7rem 10rem;
 .custom-select {
   width: 50%;
   display: none;
-  max-width: 200px;
 }
 
 @media (max-width: 1024px) {
@@ -113,17 +112,11 @@ padding: 5rem 7rem 10rem;
   }
 }
 
-label {
-  margin-right: 0.8rem;
-}
-
-.form-control {
-  width: 100%;
-}
-
 .searching {
-  width: 30rem;
+  position: relative;
+  top: 0.45rem;
 }
-i {
-  margin-left: 1rem;
+
+label {
+  margin-left: -1rem;
 }
